@@ -1,156 +1,98 @@
-# Hi, I'm Franco Siciliano 👋
+# 👋 Hello there, I'm Franco Siciliano
 
-### QA Engineer | Test Automation | API Testing | Playwright | Selenium
+### Quality Engineer | Test Automation Engineer
 
-I am a Quality Assurance Engineer with experience in manual and automated testing across web, mobile, and backend systems.
+Passionate about software quality, automation, and continuous improvement.
 
-My background includes designing and executing functional test strategies, API validation, UI automation, database verification, CI/CD integration, and framework development. I have worked in fintech, gaming, and enterprise environments, collaborating with cross-functional teams to ensure software quality and delivery confidence.
-
----
-
-## 🚀 Current Focus
-
-* Test Automation Architecture
-* Playwright + TypeScript
-* Selenium + Java
-* REST API Testing
-* CI/CD Validation
-* AI-assisted Quality Engineering
-* Test Framework Design
+I build scalable testing solutions, validate complex business processes, and help teams deliver reliable software through automation, API testing, and quality engineering practices.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 What I Do
 
-### Automation
+- Test Automation
+- API Testing
+- Functional Testing
+- Backend & Database Validation
+- CI/CD Validation
+- Test Framework Design
+- Quality Engineering
 
-* Playwright
-* Selenium
-* Maestro
+I've worked across enterprise, fintech, and gaming environments, designing testing strategies, validating critical workflows, and building maintainable automation solutions.
+
+---
+
+## ⚙️ Tech Stack
+
+### Test Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+![Maestro](https://img.shields.io/badge/Maestro-Mobile%20Automation-blue?style=for-the-badge)
 
 ### API Testing
 
-* Postman
-* Insomnia
-* Swagger
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 
-### Languages
+### Programming
 
-* TypeScript
-* Java
-* Python
-* JavaScript
-* SQL
-* Bash
-* PowerShell
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Tools
+### CI/CD & Tools
 
-* Git & GitHub
-* Azure DevOps
-* Jira
-* Docker
-* Xray
-
-### Methodologies
-
-* Agile
-* Scrum
-* Kanban
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
+![Xray](https://img.shields.io/badge/Xray-Test%20Management-6E4AFF?style=for-the-badge)
 
 ---
 
-## 💼 Professional Experience
+## 📌 Featured Projects
 
-### Quality Engineering Analyst
+### 🎭 Playwright Automation Framework
 
-**Accenture SRL (Internal Client)**
-*January 2026 – Present*
+Automation framework built with Playwright and TypeScript focused on maintainability, abstraction, reusable components, and CI/CD integration.
 
-* Refactored and improved a Playwright + TypeScript automation framework.
-* Implemented environment-aware execution mechanisms.
-* Created automated test data generation capabilities.
-* Executed and monitored CI/CD validation pipelines.
-* Designed AI-powered agents for technical documentation generation.
-* Maintained business and technical documentation.
+### ☕ Selenium Automation Framework
 
----
+UI automation framework developed with Java and Selenium following the Page Object Model design pattern.
 
-### Quality Engineering Analyst
+### 🔌 API Testing Collection
 
-**Accenture SRL — Banco Santander Client**
-*March 2025 – January 2026*
+REST API validation using Postman, JavaScript assertions, test data management, and endpoint coverage strategies.
 
-* Designed and executed functional test scenarios for financial systems.
-* Performed REST API testing using Postman and Swagger.
-* Created structured API test collections.
-* Developed JavaScript-based Postman validations.
-* Automated UI testing using Selenium and Java.
-* Managed testing activities through Jira and Xray.
+### 🐍 Python QA Utilities
+
+Automation scripts and utilities for validation, reporting, and testing support.
 
 ---
 
-### QA Engineer
+## 📈 GitHub Activity
 
-**Treasure Games**
-*August 2024 – January 2025*
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SicilianoFranco21&show_icons=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SicilianoFranco21&layout=compact" />
+</p>
 
-* Payment validation using Stripe and Google Play.
-* Functional, regression, and product testing.
-* Mobile automation using Maestro.
-* Cross-browser and device compatibility testing through LambdaTest.
-* Test planning and execution for web and mobile applications.
-
----
-
-## 📂 Featured Projects
-
-### Playwright Automation Framework
-
-* TypeScript
-* Page Object Model
-* Environment-aware execution
-* Dynamic test data generation
-* CI/CD integration
-
-### Selenium Automation Framework
-
-* Java
-* POM Design Pattern
-* Scalable test architecture
-
-### API Testing Collection
-
-* REST APIs
-* Postman Collections
-* JavaScript validations
-* Data-driven testing
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SicilianoFranco21" />
+</p>
 
 ---
 
-## 🎓 Education
+## 📫 Connect With Me
 
-**Computer Engineering**
-University of Buenos Aires (UBA)
-
----
-
-## 📜 Certifications
-
-* Microsoft Azure Fundamentals (AZ-900)
-* Functional & Quality Engineering Academy
+- LinkedIn: linkedin.com/in/franco-siciliano
+- Email: sicilianofranco21@gmail.com
 
 ---
 
-## 🌎 Languages
-
-* Spanish (Native)
-* English (C1)
-
----
-
-## 📫 Contact
-
-* LinkedIn: linkedin.com/in/franco-siciliano
-* GitHub: github.com/SicilianoFranco21
-* Email: [sicilianofranco21@gmail.com](mailto:sicilianofranco21@gmail.com)
+![](https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge)
