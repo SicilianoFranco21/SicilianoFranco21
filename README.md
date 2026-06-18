@@ -1,5 +1,8 @@
 # 👋 Hello there, I'm Franco Siciliano
 
+[![LinkedIn](https://img.shields.io/badge/Franco%20Siciliano-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/franco-siciliano)
+[![Email](https://img.shields.io/badge/Contact-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:sicilianofranco21@gmail.com)
+
 ### Quality Engineer | Test Automation Engineer
 
 I'm passionate about software quality, test automation, and continuous improvement. I really enjoy designing clean and maintainable automation frameworks, applying sound software engineering practices, and building scalable solutions with a strong focus on architecture, code quality, and long-term maintainability.
@@ -57,9 +60,11 @@ I've worked across enterprise, fintech, and gaming environments, designing testi
 
 ## 📌 Featured Projects
 
-### 🎭 Playwright Automation Framework
+### 🎭 SauceDemo Automation Framework
 
-Automation framework built with Playwright and TypeScript focused on maintainability, abstraction, reusable components, and CI/CD integration.
+End-to-end test automation framework built with Playwright and TypeScript, featuring Page Object Model, reusable components, test data management, reporting, and CI/CD-ready architecture.
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-GitHub-181717?logo=github&logoColor=white)](https://github.com/SicilianoFranco21/saucedemo-automation-ts)
 
 ### ☕ Selenium Automation Framework
 
@@ -77,33 +82,23 @@ Automation scripts and utilities for validation, reporting, and testing support.
 
 ## 📈 GitHub Activity
 
-<table align="center">
+<table align="left">
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SicilianoFranco21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SicilianoFranco21&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SicilianoFranco21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SicilianoFranco21&theme=tokyonight&hide_border=true" />
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SicilianoFranco21&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SicilianoFranco21&layout=compact&theme=tokyonight&hide_border=true" />
 
 </td>
 </tr>
 </table>
 
----
-
-## 📫 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/franco-siciliano)
-- 📧 [sicilianofranco21@gmail.com](mailto:sicilianofranco21@gmail.com)
-
----
-
-![](https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge&color=0077B5" alt="Profile Views"/>
+</p>
