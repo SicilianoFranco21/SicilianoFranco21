@@ -2,9 +2,9 @@
 
 ### Quality Engineer | Test Automation Engineer
 
-Passionate about software quality, automation, and continuous improvement.
+I'm passionate about software quality, test automation, and continuous improvement. I really enjoy designing clean and maintainable automation frameworks, applying sound software engineering practices, and building scalable solutions with a strong focus on architecture, code quality, and long-term maintainability.
 
-I build scalable testing solutions, validate complex business processes, and help teams deliver reliable software through automation, API testing, and quality engineering practices.
+I focus on validating complex business processes, strengthening software reliability, and helping teams deliver high-quality products through automation, API testing, and quality engineering practices.
 
 ---
 
@@ -26,32 +26,32 @@ I've worked across enterprise, fintech, and gaming environments, designing testi
 
 ### Test Automation
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-![Maestro](https://img.shields.io/badge/Maestro-Mobile%20Automation-blue?style=for-the-badge)
+[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)](#)
+[![Maestro](https://img.shields.io/badge/Maestro-Mobile%20Automation-1F6FEB)](#)
 
 ### API Testing
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)
+[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)
 
 ### Programming
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### CI/CD & Tools
 
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira)
-![Xray](https://img.shields.io/badge/Xray-Test%20Management-6E4AFF?style=for-the-badge)
+[![Azure DevOps](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
+[![Xray](https://img.shields.io/badge/Xray-Test%20Management-6E4AFF?logo=jira&logoColor=fff)](#)
 
 ---
 
@@ -77,21 +77,32 @@ Automation scripts and utilities for validation, reporting, and testing support.
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SicilianoFranco21&show_icons=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SicilianoFranco21&layout=compact" />
-</p>
+<table align="center">
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SicilianoFranco21" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=SicilianoFranco21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SicilianoFranco21&theme=tokyonight&hide_border=true" />
+
+</td>
+
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SicilianoFranco21&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/franco-siciliano
-- Email: sicilianofranco21@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/franco-siciliano)
+- 📧 [sicilianofranco21@gmail.com](mailto:sicilianofranco21@gmail.com)
 
 ---
 
