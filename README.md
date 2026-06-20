@@ -1,7 +1,11 @@
-<h1 align="center">Hello there👋, I'm Franco Siciliano</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![LinkedIn](https://img.shields.io/badge/Franco%20Siciliano-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/franco-siciliano)
-[![Email](https://img.shields.io/badge/Contact-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:sicilianofranco21@gmail.com)
+<h1 align="center">Hello there, I'm Franco Siciliano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://linkedin.com/in/franco-siciliano"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sicilianofranco21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ### Quality Engineer | Test Automation Engineer
 
@@ -9,7 +13,7 @@ I'm passionate about software quality, test automation, and continuous improveme
 
 I focus on validating complex business processes, strengthening software reliability, and helping teams deliver high-quality products through automation, API testing, and quality engineering practices.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 What I Do
 
@@ -23,7 +27,7 @@ I focus on validating complex business processes, strengthening software reliabi
 
 I've worked across enterprise, fintech, and gaming environments, designing testing strategies, validating critical workflows, and building maintainable automation solutions.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚙️ Tech Stack
 
@@ -56,7 +60,7 @@ I've worked across enterprise, fintech, and gaming environments, designing testi
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 [![Xray](https://img.shields.io/badge/Xray-Test%20Management-6E4AFF?logo=jira&logoColor=fff)](#)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📌 Featured Projects
 
@@ -78,7 +82,7 @@ REST API validation using Postman, JavaScript assertions, test data management, 
 
 Automation scripts and utilities for validation, reporting, and testing support.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📈 GitHub Activity
 
@@ -99,6 +103,8 @@ Automation scripts and utilities for validation, reporting, and testing support.
 </tr>
 </table>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge&color=0077B5" alt="Profile Views"/>
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
