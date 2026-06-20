@@ -1,4 +1,4 @@
-# 👋 Hello there, I'm Franco Siciliano
+<h1 align="center">Hello there👋, I'm Franco Siciliano</h1>
 
 [![LinkedIn](https://img.shields.io/badge/Franco%20Siciliano-LinkedIn-0077B5?logo=linkedin&logoColor=fff)](https://linkedin.com/in/franco-siciliano)
 [![Email](https://img.shields.io/badge/Contact-Gmail-D14836?logo=gmail&logoColor=fff)](mailto:sicilianofranco21@gmail.com)
