@@ -104,7 +104,7 @@ Automation scripts and utilities for validation, reporting, and testing support.
 </table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge&color=0077B5" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SicilianoFranco21&style=for-the-badge&color=5673c8" alt="Profile Views"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
